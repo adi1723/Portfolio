@@ -4,7 +4,7 @@ export const siteConfig = {
   title: "Aditya Kapadane | Software Engineer",
   description:
     "Software Engineer building intelligent products, automation systems, and modern applications across full-stack development, Python automation, cloud infrastructure, and Generative AI.",
-  url: "https://adi1723.github.io/Portfolio",
+  url: "https://aditya-kapadane-portfolio.vercel.app",
   location: "Pune, Maharashtra, India",
   email: "adikapadane@gmail.com",
   phone: "+91 9022951550",
